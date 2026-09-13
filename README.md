@@ -34,7 +34,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-232F3E?style=flat-square&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack-232F3E?style=flat-square&logo=FullStack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-232F3E?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 ---
