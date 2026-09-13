@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp,java" />
 </p>
 
 ---
