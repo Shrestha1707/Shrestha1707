@@ -15,6 +15,29 @@
 
 ---
 
+### 🧑‍💻 About Me
+
+- 🎓 Second-year CS student specializing in **AI/ML**
+- 🌐 Passionate about **Artificial Intelligence** and **Neural Networks**
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,SQL" />
+</p>
+
+---
+
+### 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-232F3E?style=flat-square&logo=PyTorch&logoColor=white" />
+</p>
+
+---
+
 <!--
 **Shrestha1707/Shrestha1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
